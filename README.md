@@ -15,12 +15,6 @@ Repositories for Bangkit 2024 Batch 2 Capstone Project
 
 HairMuse is an innovative mobile application that revolutionizes personal styling through artificial intelligence.<br>By leveraging advanced machine learning technologies, the app provides personalized <br>hairstyle recommendations based on individual face shapes.
 
-<p align="center">
-   Download Now!
-   <br>
-   <a href="https://github.com/C23-PS163-EmoJournal/EmoJournal-app/releases/download/v1.0.0/app-debug.apk"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
-</p>
-
 ## Screenshots
   <img src="assets/splash screen.png" alt="HairMuse Logo" width="220" height="450">
   <img src="assets/Home Screen.png" alt="HairMuse Logo" width="190" height="450">
