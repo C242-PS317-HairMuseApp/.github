@@ -1,9 +1,9 @@
 <div align='center' style="display: flex; align-items: center;">
-  <img src="assets/asset2.jpg" alt="HairMuse Logo" width="380" height="170">
-  <img src="assets/msib-kampus-merdeka.png" alt="HairMuse Logo" width="380" height="170">
+  <img src="https://github.com/HairMuseApp/.github/blob/main/assets/asset2.jpg" alt="HairMuse Logo" width="380" height="170">
+  <img src="https://github.com/HairMuseApp/.github/blob/main/assets/msib-kampus-merdeka.png" alt="HairMuse Logo" width="380" height="170">
 </div>
 
-# <img src="assets/Logo.png" alt="HairMuse Logo" width="30" height="30" style="margin-left: 15px;">  HairMuse App 
+# <img src="https://github.com/HairMuseApp/.github/blob/main/assets/Logo.png" alt="HairMuse Logo" width="30" height="30" style="margin-left: 15px;">  HairMuse App 
 
 ## 📝 Project Overview
 Repositories for Bangkit 2024 Batch 2 Capstone Project
