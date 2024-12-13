@@ -1,16 +1,33 @@
-<div style="display: flex; align-items: center;">
-  <img src="asset2.jpg" alt="HairMuse Logo" width="380" height="150">
-  <img src="msib-kampus-merdeka.png" alt="HairMuse Logo" width="380" height="150">
+<div align='center' style="display: flex; align-items: center;">
+  <img src="assets/asset2.jpg" alt="HairMuse Logo" width="380" height="150">
+  <img src="assets/msib-kampus-merdeka.png" alt="HairMuse Logo" width="380" height="150">
 </div>
 
-# <img src="Logo.png" alt="HairMuse Logo" width="30" height="30" style="margin-left: 15px;">  HairMuse App 
+# <img src="assets/Logo.png" alt="HairMuse Logo" width="30" height="30" style="margin-left: 15px;">  HairMuse App 
 
 ## 📝 Project Overview
 Repositories for Bangkit 2024 Batch 2 Capstone Project
 
-### 💡 About HairMuse
+<details>
+   <summary align="center">More Information</summary>
+
+  ### 💡 About HairMuse
 
 HairMuse is an innovative mobile application that revolutionizes personal styling through artificial intelligence.<br>By leveraging advanced machine learning technologies, the app provides personalized <br>hairstyle recommendations based on individual face shapes.
+
+<p align="center">
+   Download Now!
+   <br>
+   <a href="https://github.com/C23-PS163-EmoJournal/EmoJournal-app/releases/download/v1.0.0/app-debug.apk"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
+</p>
+
+## Screenshots
+  <img src="assets/splash screen.png" alt="HairMuse Logo" width="220" height="450">
+  <img src="assets/Home Screen.png" alt="HairMuse Logo" width="190" height="450">
+  <img src="assets/UploadButton.png" alt="HairMuse Logo" width="190" height="450">
+  <img src="assets/Prediction Screen.png" alt="HairMuse Logo" width="190" height="450">
+  <img src="assets/OutputScreen.png" alt="HairMuse Logo" width="190" height="450">
+
 
 ## 🚀 Key Features
 
@@ -80,4 +97,8 @@ HairMuse is an innovative mobile application that revolutionizes personal stylin
 - **Machine Learning**: [[ML Repo Link](https://github.com/HairMuseApp/HairMuseApp-ML)]
 - **Mobile Development**: [[Mobile App Repo Link](https://github.com/HairMuseApp/HairMuse-MD)]
 - **API**: [[API Repo Link](https://github.com/HairMuseApp/HairMuse-API)]
+
+</details>
+
+<p align="right"> C242-PS317 Teams</p>
 
