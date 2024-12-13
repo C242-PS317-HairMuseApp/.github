@@ -1,6 +1,6 @@
 <div align='center' style="display: flex; align-items: center;">
-  <img src="assets/asset2.jpg" alt="HairMuse Logo" width="380" height="150">
-  <img src="assets/msib-kampus-merdeka.png" alt="HairMuse Logo" width="380" height="150">
+  <img src="assets/asset2.jpg" alt="HairMuse Logo" width="380" height="170">
+  <img src="assets/msib-kampus-merdeka.png" alt="HairMuse Logo" width="380" height="170">
 </div>
 
 # <img src="assets/Logo.png" alt="HairMuse Logo" width="30" height="30" style="margin-left: 15px;">  HairMuse App 
